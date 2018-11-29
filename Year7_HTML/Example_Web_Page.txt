@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head><title>This is a document</title>
+<link rel="stylesheet" href="CSS_styles_for_Webpage.css"></head>
+<body>
+
+<h1>Hello...this is from a h1 tag</h1>
+<h2>Hello...this is from a h2 tag</h2>
+<h3>Hello...this is from a h3 tag</h3>
+<h4>Hello...this is from a h4 tag</h4>
+<h5>Hello....this is from a h5 tag</h5>
+<h6>Hello...this is from a h6 tag</h6>
+<p>Apple...this is from a 'p' tag which means new paragraph</p>
+<br>
+<u>Banana...this is from a 'u' tag which means underline</u>
+<ul>Hello I like chocolate...this is from an 'ul' tag</ul>
+<br>
+<b>Mangoes...this is from a 'b' tag which means bold
+<br>
+<i>Pears...this is from an 'i' tag which means italic</i>
+<br>
+<ul type="square">
+    <li>Egg from a 'li' tag</li>
+    <li>Bread from a 'li' tag</li>
+    <li>Butter from a 'li' tag</li>
+</ul>
+<ol type="1">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+<marquee scrollamount = "30">This is a scrolling marquee</marquee>
+<image src = "cat.jpg">
+
+</body>
+</html>
